@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cogency Capital",
+    "description": "",
+    "home_page_url": "https://cogency.capital",
+    "feed_url": "https://cogency.capital/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cogency Capital"
+    },
+    "items": [
+        {
+            "id": "https://cogency.capital/about.html",
+            "url": "https://cogency.capital/about.html",
+            "title": "About",
+            "summary": "Cogency Capital focuses on narrative &amp; trend-based investments using quantitative methods. Cogency collects data from sources such as social networks, web traffic, structured &amp; unstructured data sets, financial data and evaluates this data using statistical &amp; machine learning methods to make probabilistic market predictions.",
+            "content_html": "<p>Cogency Capital focuses on narrative &amp; trend-based investments using quantitative methods. Cogency collects data from sources such as social networks, web traffic, structured &amp; unstructured data sets, financial data and evaluates this data using statistical &amp; machine learning methods to make probabilistic market predictions.</p>\n",
+            "author": {
+                "name": "Cogency Capital"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-07T10:25:34-03:00",
+            "date_modified": "2022-10-07T10:25:34-03:00"
+        }
+    ]
+}

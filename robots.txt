@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cogency.capital/sitemap.xml

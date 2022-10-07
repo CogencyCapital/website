@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cogency Capital</title>
+    <link href="https://cogency.capital/feed.xml" rel="self" />
+    <link href="https://cogency.capital" />
+    <updated>2022-10-07T10:25:34-03:00</updated>
+    <author>
+        <name>Cogency Capital</name>
+    </author>
+    <id>https://cogency.capital</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Cogency Capital</name>
+        </author>
+        <link href="https://cogency.capital/about.html"/>
+        <id>https://cogency.capital/about.html</id>
+
+        <updated>2022-10-07T10:25:34-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Cogency Capital focuses on narrative &amp; trend-based investments using quantitative methods. Cogency collects data from sources such as social networks, web traffic, structured &amp; unstructured data sets, financial data and evaluates this data using statistical &amp; machine learning methods to make probabilistic market predictions.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Cogency Capital focuses on narrative &amp; trend-based investments using quantitative methods. Cogency collects data from sources such as social networks, web traffic, structured &amp; unstructured data sets, financial data and evaluates this data using statistical &amp; machine learning methods to make probabilistic market predictions.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
