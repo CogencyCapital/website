@@ -3,7 +3,7 @@
     <title>Cogency Capital</title>
     <link href="https://cogency.capital/feed.xml" rel="self" />
     <link href="https://cogency.capital" />
-    <updated>2022-10-13T12:49:01-03:00</updated>
+    <updated>2022-10-13T12:51:06-03:00</updated>
     <author>
         <name>Cogency Capital</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://cogency.capital/case-1-cryptocurrencies.html"/>
         <id>https://cogency.capital/case-1-cryptocurrencies.html</id>
 
-        <updated>2022-10-13T12:49:01-03:00</updated>
+        <updated>2022-10-13T12:51:06-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cogency.capital/media/posts/3/unique-btc-addresses-used-2.png" alt="" />
@@ -103,7 +103,7 @@
 <ul>
 <li><a href="https://www.blockchain.com/charts">Blockchain.com stats</a></li>
 <li><a href="https://etherscan.io/charts">Etherscan stats</a></li>
-<li><a href="https://cogency.capital/Bitcoin+User+Adoption+Report.pdf">Bitcoin user adoption report</a><figure class="post__image"><img loading="lazy"  src="undefined" data-is-external-image="true"  alt=""></figure></li>
+<li><a href="https://cogency.capital/Bitcoin+User+Adoption+Report.pdf">Bitcoin user adoption report</a></li>
 </ul>
             ]]>
         </content>
