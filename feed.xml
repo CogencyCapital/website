@@ -3,12 +3,35 @@
     <title>Cogency Capital</title>
     <link href="https://cogency.capital/feed.xml" rel="self" />
     <link href="https://cogency.capital" />
-    <updated>2022-10-14T11:17:46-03:00</updated>
+    <updated>2022-10-15T10:52:46-03:00</updated>
     <author>
         <name>Cogency Capital</name>
     </author>
     <id>https://cogency.capital</id>
 
+    <entry>
+        <title>Narratives Tracker</title>
+        <author>
+            <name>Cogency Capital</name>
+        </author>
+        <link href="https://cogency.capital/narratives-tracker.html"/>
+        <id>https://cogency.capital/narratives-tracker.html</id>
+
+        <updated>2022-10-15T10:52:46-03:00</updated>
+            <summary>
+                <![CDATA[
+                    CBDCs, launched over the next 5 years across the globe, could cause massive demand for hard assets like gold and crypto Crypto could undergo rapid regulation around securities laws and energy consumption, resulting in the growth of PoS/green tokens (Peercoin) and coins clearly passing the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ul>
+<li>CBDCs, launched over the next 5 years across the globe, could cause massive demand for hard assets like gold and crypto</li>
+<li>Crypto could undergo rapid regulation around securities laws and energy consumption, resulting in the growth of PoS/green tokens (Peercoin) and coins clearly passing the Howey test (Bitcoin)</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Case #2 - Population Growth</title>
         <author>
