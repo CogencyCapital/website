@@ -5,8 +5,8 @@
 <loc>https://cogency.capital/</loc>
 </url>
 <url>
-<loc>https://cogency.capital/case-1-cryptocurrencies.html</loc>
-<lastmod>2022-10-16T10:02:15-03:00</lastmod>
+<loc>https://cogency.capital/cryptocurrencies.html</loc>
+<lastmod>2022-10-16T10:03:55-03:00</lastmod>
 <image:image>
 <image:loc>https://cogency.capital/media/posts/3/unique-btc-addresses-used-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -37,8 +37,12 @@
 </image:image>
 </url>
 <url>
-<loc>https://cogency.capital/case-2-population-growth.html</loc>
-<lastmod>2022-10-16T10:02:22-03:00</lastmod>
+<loc>https://cogency.capital/narratives-tracker.html</loc>
+<lastmod>2022-10-15T10:52:46-03:00</lastmod>
+</url>
+<url>
+<loc>https://cogency.capital/population-growth.html</loc>
+<lastmod>2022-10-16T10:04:03-03:00</lastmod>
 <image:image>
 <image:loc>https://cogency.capital/media/posts/4/Screen-Shot-2022-10-14-at-10.31.02-AM-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -83,10 +87,6 @@
 <image:loc>https://cogency.capital/media/posts/4/Screen-Shot-2022-10-14-at-10.46.25-AM.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://cogency.capital/narratives-tracker.html</loc>
-<lastmod>2022-10-15T10:52:46-03:00</lastmod>
 </url>
 <url>
 <loc>https://cogency.capital/the-og-token-hypothesis.html</loc>
