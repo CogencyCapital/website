@@ -3,12 +3,96 @@
     <title>Cogency Capital</title>
     <link href="https://cogency.capital/feed.xml" rel="self" />
     <link href="https://cogency.capital" />
-    <updated>2022-10-17T20:21:14-03:00</updated>
+    <updated>2022-10-18T11:02:11-03:00</updated>
     <author>
         <name>Cogency Capital</name>
     </author>
     <id>https://cogency.capital</id>
 
+    <entry>
+        <title>Topic #4 - Non Fungible Tokens</title>
+        <author>
+            <name>Cogency Capital</name>
+        </author>
+        <link href="https://cogency.capital/non-fungible-tokens.html"/>
+        <id>https://cogency.capital/non-fungible-tokens.html</id>
+
+        <updated>2022-10-18T11:02:11-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cogency.capital/media/posts/7/1200x-1.jpeg" alt="" />
+                    What &amp; Why Non-fungible tokens are digital asset representations, most commonly used for digital art (images, videos). NFTs have seen an immense increase in demand during the 2021/2022 bull run. We are investigating whether this trend was short-lived, whether NFTs are here to stay long-term,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cogency.capital/media/posts/7/1200x-1.jpeg" alt="" />
+                <h2><span style="font-weight: 400;">What &amp; Why</span></h2>
+<p><span style="font-weight: 400;">Non-fungible tokens are digital asset representations, most commonly used for digital art (images, videos). NFTs have seen an immense increase in demand during the 2021/2022 bull run. We are investigating whether this trend was short-lived, whether NFTs are here to stay long-term, and what NFT use cases could look like in the future.</span></p>
+<h2><span style="font-weight: 400;">Questions</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What are the most common NFT use cases right now?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What could be the most common NFT use cases in the future?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Were NFTs just a short-lived fad, or is there more behind them?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What is the potential market for digital art?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What is the current market of physical art?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What are optimistic/pessimistic cases for NFT adoption?</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Data</span></h2>
+<ul>
+<li>OpenSea Monthly ETH Volume 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/7/opensea-monthly-volume-ethereum.png" sizes="100vw" srcset="https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-xs.png 300w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-sm.png 480w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-md.png 768w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-lg.png 1024w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-xl.png 1360w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-ethereum-2xl.png 1600w"  alt="" width="1430" height="816"></figure>
+</li>
+<li>OpenSea Monthly NFTs Sold 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/7/opensea-monthly-nfts-sold.png" sizes="100vw" srcset="https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-xs.png 300w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-sm.png 480w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-md.png 768w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-lg.png 1024w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-xl.png 1360w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-nfts-sold-2xl.png 1600w"  alt="" width="1436" height="814"></figure>
+</li>
+<li>OpenSea Monthly Active Traders 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/7/opensea-monthly-active-traders-2.png" sizes="100vw" srcset="https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-xs.png 300w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-sm.png 480w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-md.png 768w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-lg.png 1024w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-xl.png 1360w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-active-traders-2-2xl.png 1600w"  alt="" width="1432" height="808"></figure>
+</li>
+<li>OpenSea Monthly Volume Polygon 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/7/opensea-monthly-volume-polygon.png" sizes="100vw" srcset="https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-xs.png 300w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-sm.png 480w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-md.png 768w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-lg.png 1024w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-xl.png 1360w ,https://cogency.capital/media/posts/7/responsive/opensea-monthly-volume-polygon-2xl.png 1600w"  alt="" width="1434" height="806"></figure>
+</li>
+<li>Art Market Sales Worldwide 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/7/art-market-sales-worldwide.png" sizes="100vw" srcset="https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-xs.png 300w ,https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-sm.png 480w ,https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-md.png 768w ,https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-lg.png 1024w ,https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-xl.png 1360w ,https://cogency.capital/media/posts/7/responsive/art-market-sales-worldwide-2xl.png 1600w"  alt="" width="1624" height="1122"></figure>
+</li>
+</ul>
+<h2><span style="font-weight: 400;">Findings</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Depending on NFT regulation (whether NFTs are classified as security or utility) the market might see more/less growth</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The global art market value is approx. 65 billion USD per year, and it is reasonable to assume the digital art market could capture 10-20% of that (similar to how Bitcoin grew to approx. 10% of Golds market value)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Most NFT projects come and go quickly, with only 2 out of the top 10 projects being more than a year old (Cryptopunks and Bored Apes)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Liquidity seems to be the most significant problem for NFTs, with demand having dried up rapidly after the initial hype</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">NFTs with utility are becoming more popular, such as NFTs granting unique benefits to holders</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Only approx. 10% are buying NFTs for art (long-term), 90% are buying to make a profit or to flex to the community (short-term)</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Predictions</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fractional NFTs will dominate in the future due to better liquidity and easier access to own a piece of a whole</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Physical assets will see more digitization through NFTs, especially with fractional NFTs enabling users to hold parts of physical assets such as land and real estate</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">NFTs use cases for music, ticketing, gift cards, access passes, game items/skins will increase, while the use-case for digital art will likely grow at a slower pace</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">NFTs will have to present unique utility value, brand value (such as Nike Sneaker NFTs) or physical value (fractional real estate, etc.) to gain demand</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The days of unknown artists releasing a collection of 10000 similar looking collectibles purely on hype are over</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Demand for NFT collections will be highly skewed towards top projects, even more as with fungible tokens, with top 0.1-1% receiving 90-99% of all trading activity (primarily due to the lack of liquidity)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gaming will offer the best use-case for NFTs, with tradable in-game items, skins and avatars on the blockchain</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">The high-end/luxury market will see an increase in NFT demand, especially when combined with brand value and perceived uniqueness</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Bitcoin could become the most dominant way to issue NFTs (via the Taro protocol on the Lightning Network)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">While many 2017 alt-tokens saw their demand increase once again during the 2021 bull market, most NFT projects released in 2021/2022 will likely die (due to lack of fractional liquidity)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">It is unlikely that NFTs will receive as much hype as they did in 2021 ever again - we expect that NFT demand will slowly recover to all-time-highs, although over many years and with drastically different use-cases (mostly powered by gaming and virtual economy)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">NFTs will be based on the actual value they represent (such as ticket value, digital fractions of physical assets, in-game item/skin, access/governance passes), as opposed to speculative art value except in a few rare cases</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Links</span></h2>
+<ul>
+<li><span style="font-weight: 400;">NFT statistics </span><a href="https://www.demandsage.com/nft-statistics/"><span style="font-weight: 400;">https://www.demandsage.com/nft-statistics/</span></a><span style="font-weight: 400;"> </span></li>
+<li>Non-fungible market tracker <a href="https://nonfungible.com/market-tracker" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://nonfungible.com/market-tracker</span></a><span style="font-weight: 400;"> </span></li>
+<li>Art market worldwide <a href="https://www.statista.com/topics/1119/art-market/#topicHeader__wrapper" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://www.statista.com/topics/1119/art-market/#topicHeader__wrapper</span></a><span style="font-weight: 400;"> </span></li>
+<li>Art market report <a href="https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://www.ubs.com/global/en/our-firm/art/collecting/art-market-survey.html</span></a><span style="font-weight: 400;"> </span></li>
+<li>The development of NFTs <a href="https://www.artprice.com/artprice-reports/the-art-market-in-2021/the-development-of-nfts" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://www.artprice.com/artprice-reports/the-art-market-in-2021/the-development-of-nfts</span></a><span style="font-weight: 400;"> </span></li>
+<li>OpenSea graphs <a href="https://dune.com/pancakephd/Opensea-volume?Graph+Timeframe_n462ea=1200" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://dune.com/pancakephd/Opensea-volume?Graph+Timeframe_n462ea=1200</span></a><span style="font-weight: 400;"> </span></li>
+<li>Reasons to buy NFTs <a href="https://thehustle.co/07072022-nfts/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span>https://thehustle.co/07072022-nfts/</span></a><span style="font-weight: 400;"> </span></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Topic #3 - Central Bank Digital Currencies</title>
         <author>
