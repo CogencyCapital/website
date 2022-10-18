@@ -3,12 +3,98 @@
     <title>Cogency Capital</title>
     <link href="https://cogency.capital/feed.xml" rel="self" />
     <link href="https://cogency.capital" />
-    <updated>2022-10-18T11:02:11-03:00</updated>
+    <updated>2022-10-18T12:16:40-03:00</updated>
     <author>
         <name>Cogency Capital</name>
     </author>
     <id>https://cogency.capital</id>
 
+    <entry>
+        <title>Topic #5 - Privacy Coins</title>
+        <author>
+            <name>Cogency Capital</name>
+        </author>
+        <link href="https://cogency.capital/privacy-coins.html"/>
+        <id>https://cogency.capital/privacy-coins.html</id>
+
+        <updated>2022-10-18T12:16:40-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cogency.capital/media/posts/8/monero-zcash-transactions.png" alt="" />
+                    What &amp; Why Privacy coins are cryptocurrencies that preserve anonymity by obscuring the flow of money across their networks. With the recent crack-down on Tornado Cash, and imposed blacklists on stablecoins (Circle’s USDC), privacy coins are becoming more and more relevant. We want to explore&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cogency.capital/media/posts/8/monero-zcash-transactions.png" alt="" />
+                <h2><span style="font-weight: 400;">What &amp; Why</span></h2>
+<p><span style="font-weight: 400;">Privacy coins are cryptocurrencies that preserve anonymity by obscuring the flow of money across their networks. With the recent crack-down on Tornado Cash, and imposed blacklists on stablecoins (Circle’s USDC), privacy coins are becoming more and more relevant. We want to explore popular privacy coins and estimate opportunities &amp; market size for privacy-based payments.</span></p>
+<h2><span style="font-weight: 400;">Questions</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What is the current market cap of privacy coins?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Is it possible that privacy coins will grow in demand more than crypto in general?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">How will CBDCs and government regulation on KYC affect privacy coins?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What are the most promising privacy coins?</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">How many transactions on-chain are private?</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Data</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Monero &amp; Zcash Interest </span></span>
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/monero-zcash-interest.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-md.png 768w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-interest-2xl.png 1600w"  alt="" width="2400" height="1232"></figure>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Privacy Token &amp; Privacy Coin Interest </span></span>
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/privacy-token-coin-interest.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-md.png 768w ,https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/privacy-token-coin-interest-2xl.png 1600w"  alt="" width="2388" height="1212"></figure>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Monero &amp; Zcash Transactions </span></span>
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/monero-zcash-transactions-2.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-md.png 768w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/monero-zcash-transactions-2-2xl.png 1600w"  alt="" width="2874" height="1020"></figure>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Bitcoin/Ethereum vs. Privacy Coin Transactions </span></span>
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/bitcoin-ethereum-vs-privacy-coins.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-md.png 768w ,https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/bitcoin-ethereum-vs-privacy-coins-2xl.png 1600w"  alt="" width="2870" height="1022"></figure>
+</li>
+<li aria-level="1">Monero Transaction Count 
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/monero-transaction-count.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/monero-transaction-count-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/monero-transaction-count-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/monero-transaction-count-md.png 768w ,https://cogency.capital/media/posts/8/responsive/monero-transaction-count-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/monero-transaction-count-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/monero-transaction-count-2xl.png 1600w"  alt="" width="1902" height="1216"></figure>
+</li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><span style="font-weight: 400;">Percentage of Criminal Activity in Crypto </span></span>
+<figure class="post__image"><img loading="lazy"  src="https://cogency.capital/media/posts/8/illegal-transaction-volume.png" sizes="100vw" srcset="https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-xs.png 300w ,https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-sm.png 480w ,https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-md.png 768w ,https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-lg.png 1024w ,https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-xl.png 1360w ,https://cogency.capital/media/posts/8/responsive/illegal-transaction-volume-2xl.png 1600w"  alt="" width="1590" height="902"></figure>
+</li>
+</ul>
+<h2><span style="font-weight: 400;">Findings</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Monero, Zcash, Decred, Oasis Network, Horizen, Secret, Keep Network, Phala Network, Verge, Dusk Network, PIVX, Navcoin are the most popular privacy coins</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ring signatures, stealth addresses, identity masking, zero-knowledge proofs, tx-amount obfuscation are the most common technologies used by privacy coins</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy coins are used less for illegal activity as assumed, and more to protect personal privacy for legal payments, cross-border payments, donations, etc.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Only 0.15% of all crypto transactions are related to illegal activity</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy coin transactions make up only 1-2% of all crypto transactions</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Risks</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regulation will be too tight on privacy coins, making them effectively useless (with its only use case being criminal activity)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy might not be valued enough by most users, especially when compared to transaction speed or access to handouts/benefits as would be the case with CBDCs</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Predictions</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy coins are unlikely to work with smart contracts due to their anonymous nature, and as such, will likely focus on payments exclusively</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy coins are already banned in KR, AU, JP, and more countries will likely ban them at the risk of illegal activity</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If regulations crack down on payment privacy, a parallel “gray” economy might emerge (and not for illegal activity, but rather just to preserve privacy)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Implementation of CBDCs will cause a discussion around privacy, with the main argument in favor being the “greater good” and “public security” - this might become a trigger for a subset of users deciding to switch to privacy-protecting coins</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">As with most technologies, early adopters are using the tech for shady activity, but with time mainstream users will adopt privacy tokens for day-to-day transfers</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Opportunities</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Betting on the price increase of privacy coins, relative to Bitcoin (especially as CBDC implementations are getting closer)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Currently, privacy coins have a bad reputation of being used mostly for illegal activity, which might change rapidly once regular users start using them more and more</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Links</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy coins by market cap </span><a href="https://coinmarketcap.com/view/privacy/"><span style="font-weight: 400;">https://coinmarketcap.com/view/privacy/</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Popular privacy coins </span><a href="https://builtin.com/blockchain/privacy-coins"><span style="font-weight: 400;">https://builtin.com/blockchain/privacy-coins</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Monero stats </span><a href="https://localmonero.co/blocks/stats"><span style="font-weight: 400;">https://localmonero.co/blocks/stats</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Monero/Zcash transaction chart </span><a href="https://bitinfocharts.com/comparison/transactions-xmr-zec.html#alltime"><span style="font-weight: 400;">https://bitinfocharts.com/comparison/transactions-xmr-zec.html#alltime</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Crypto crime reports </span><a href="https://blog.chainalysis.com/reports/2022-crypto-crime-report-introduction/"><span style="font-weight: 400;">https://blog.chainalysis.com/reports/2022-crypto-crime-report-introduction/</span></a><span style="font-weight: 400;"> </span></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Topic #4 - Non Fungible Tokens</title>
         <author>
